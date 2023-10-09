@@ -1,3 +1,9 @@
+# Thinking & Research
+I first viewed Kagel and the NYC data pool to try to find some interesting data sets. I failed because most of the ones I clicked on have data points fewer than 1000. 
+
+
+
+
 # p5.js Template
 
 This is a README file that can be used to describe and document your assignment.
