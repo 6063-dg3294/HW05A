@@ -32,7 +32,7 @@ I used the division method by devide getNum/300000 to get the size of ovals.
 
 
 # Optimization
-Then, I came to your office hour. After our talking, I:
+Then, I came to your office hour. After our talk, I:
 1. map the max and min of data column directly to drawable numbers
 2. map the color [fixI]
 3. Changed all getString() to getNum  
