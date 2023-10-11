@@ -41,7 +41,7 @@ Here is the only problem: the numbers generated from min() and max() functions a
 The circles are overlapping. ->
 
 # The Final
-![image description](./6.png)  
+![image description](./7.png)  
 In this visual, the width of circles reflects World Wide Sales (in $) and the height reflects International Sales (in $). The deeper the color is, the larger the International Sales is. 
 
 
