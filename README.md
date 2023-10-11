@@ -26,6 +26,38 @@ After the amount of time spending on understanding table(), I'm glad I can have 
 
 
 # Visualization 2
+![image description](./4.png)  
+
+I used the division method by devide getNum/300000 to get the size of ovals. 
+
+
+# Optimization
+Then, I came to your office hour. After our talking, I:
+1. map the max and min of data column directly to drawable numbers
+2. map the color [fixI]
+3. Changed all getString() to getNum  
+Here is the only problem: the numbers generated from min() and max() functions are not the actual right numbers, so I manually used Excel. 
+![image description](./5.png)    
+The circles are overlapping. ->
+
+# The Final
+![image description](./6.png)  
+In this visual, the width of circles reflects World Wide Sales (in $) and the height reflects International Sales (in $). The deeper the color is, the larger the International Sales is. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
