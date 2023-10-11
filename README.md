@@ -10,7 +10,23 @@ Then I viewed the CSV file in Numbers. I watched a YouTube video (https://www.yo
 
 # Started Exploring
 I was exciting to receive console result from console log in.   
-![image description](./1.png)
+![image description](./1.png)  
+
+Then, I did a few moves to further explore a table in p5. 
+![image description](./2.png)  It's so satisfying to have a computer presenting info for me.  
+
+I want to visualize the data of movies' world sales in $. My new pseudo code would be:  
+1. extract the column numbers from dataset
+2. Use ratio to make $ smaller so it can be drawn on the screen
+3. draw shapes to visualize the data 
+
+# Visualization 1
+After the amount of time spending on understanding table(), I'm glad I can have something on my canvas. 
+![image description](./3.png)  
+
+
+
+
 
 
 # p5.js Template
