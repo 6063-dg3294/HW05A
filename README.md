@@ -1,6 +1,14 @@
 # Thinking & Research
 I first viewed Kagel and the NYC data pool to try to find some interesting datasets. I failed because most of the ones I clicked on have data points fewer than 1000. Then a thought came to me: I can just search for key words "top 1000." I found this dataset of Top 1000 Highest Grossing Movies (up to date as of 25th September 2023).  
 
+About the dataset:
+1. source: https://www.kaggle.com/datasets/sanjeetsinghnaik/top-1000-highest-grossing-movies
+2. I used 1000 data points
+3. I chose the dataset because it would be fun to see the big winners of film industry
+4. I used column 1,8 and 9: Title, International sales & World sales
+5. See The final session for reading the visual  
+
+
 Then I viewed the CSV file in Numbers. I watched a YouTube video (https://www.youtube.com/watch?v=hokTcLVtZs8) to learn how to load the table. My pseudo code would be:  
 1. Load table into the deck
 2. Use array or state and push() etc. to have a list to call from
