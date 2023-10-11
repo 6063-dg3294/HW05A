@@ -25,7 +25,7 @@ After the amount of time spending on understanding table(), I'm glad I can have 
 ![image description](./3.png)  
 
 
-
+# Visualization 2
 
 
 
