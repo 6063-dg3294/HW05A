@@ -21,10 +21,27 @@ function setup() {
   //print it column by column
   //note: a row is an object, not an array
   for (let c = 0; c < table.getRowCount(); c++) {
-    let x = table.getString(c, 9) / 300000
-    let y = table.getString(c, 9) / 500000
-    print(table.getString(c, 9))
-    ellipse(x, y, 25, 25)
+    const name = table.getString(c, "Title")
+    const posx = random(0, width)
+    const posy = random(0, height)
+    let x = table.getString(c, 9) / 30000000
+    const fixX = map(x, 0, 1000, 0, 500);
+    let y = table.getString(c, 9) / 50000000
+    const fixY = map(y, 0, 1000, 0, 500);
+    let i = table.getString(c, 9) / 72255
+
+    let yVel = table.getString(c, 9) / 5000000
+
+
+    // print(table.getString(c, 9))
+    textAlign(CENTER);
+    fill(200, i, i)
+    ellipse(posx, posy, fixX, fixY)
+    
+    fill(200, 150, 100)
+    textSize(10)
+    text(name, posx, posy)
+
 
 
 
